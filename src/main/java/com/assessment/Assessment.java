@@ -7,4 +7,3 @@ public class Assessment {
 
     private int number;
 }
-//
